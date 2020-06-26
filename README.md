@@ -26,6 +26,3 @@ Se dio la preparación de la ventana principal, como la creación de sus paneles
 
 ![principal](https://github.com/valentinatobo/Clase-Component-C5/blob/master/imagenes/vistappanel.PNG)
 
-
-Aprender el uso de eventos por acción para darle interactividad a nuestras interfaces gráficas de forma general y discriminando por acciones.
-Explicar y realizar preparativos previos para la implementación de nuestra aplicación Single-Page App.
